@@ -5,6 +5,7 @@ Thel High-End "Class-A" Power Supply "Black Pulsar" (correctly: constant current
   
 ## Version 2013-2018:
 https://web.archive.org/web/20160326152234/http://www.thel-audioworld.de/module/Class-A%20Netzteil/Blackpulsar.htm  
+https://web.archive.org/web/20180819093402/http://www.thel-audioworld.de:80/module/Class-A%20Netzteil/Blackpulsar.htm  
   
 <img alt="" src="/hardware/version 2013-2018/BLP-1.jpg"/>  
   

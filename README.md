@@ -23,7 +23,7 @@ https://web.archive.org/web/20190630191455/http://thel-audioworld.de/module/Clas
 ----  
 ### Kicad projects in this repo:  
 * [version 2013-2018](https://github.com/analoghifi/Thel-Black-Pulsar-PowerSupply/tree/main/hardware/version%202013-2018/KiCad/original) | state: initial release v1.01 | like the original, 1-layer, THT
-*  [Black Pulsar 10W](https://github.com/analoghifi/Thel-Black-Pulsar-PowerSupply/tree/main/hardware/version%202019-now/10W/KiCad) (version 2019) | state: comin soon... | like the original, 1-layer, THT
-*  [Black Pulsar 25W](https://github.com/analoghifi/Thel-Black-Pulsar-PowerSupply/tree/main/hardware/version%202019-now/25W/KiCad) (version 2019) | state: comin soon... | like the original, 1-layer, THT
+*  [Black Pulsar 10W](https://github.com/analoghifi/Thel-Black-Pulsar-PowerSupply/tree/main/hardware/version%202019-now/10W/KiCad) (version 2019) | state: coming soon... | like the original, 1-layer, THT
+*  [Black Pulsar 25W](https://github.com/analoghifi/Thel-Black-Pulsar-PowerSupply/tree/main/hardware/version%202019-now/25W/KiCad) (version 2019) | state: coming soon... | like the original, 1-layer, THT
 
 ----

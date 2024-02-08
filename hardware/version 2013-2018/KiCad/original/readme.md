@@ -12,4 +12,4 @@ this is not the original Thel PCB but it's very like\* the original with the fol
 these are KiCad 6.x projects  
 see how to get the proper 3D-Models from here: https://github.com/analoghifi/KiCad-3D-Models
 
-
+use kicanvas.org to see this KiCad-Project in your browser:

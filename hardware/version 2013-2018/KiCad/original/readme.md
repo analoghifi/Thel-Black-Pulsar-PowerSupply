@@ -13,3 +13,4 @@ these are KiCad 6.x projects
 see how to get the proper 3D-Models from here: https://github.com/analoghifi/KiCad-3D-Models
 
 use kicanvas.org to see this KiCad-Project in your browser:
+https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fanaloghifi%2FThel-Black-Pulsar-PowerSupply%2Ftree%2Fmain%2Fhardware%2Fversion%25202013-2018%2FKiCad%2Foriginal
